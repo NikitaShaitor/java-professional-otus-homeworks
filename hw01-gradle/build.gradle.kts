@@ -8,5 +8,5 @@ dependencies {
 }
 
 application {
-    mainClass = "ru.otus.App"
+    mainClass = "ru.otus.HellpOtus"
 }
