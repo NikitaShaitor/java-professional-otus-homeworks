@@ -18,5 +18,4 @@ public class ArrayUtils {
         swap(numbers, 0, 2);
         System.out.println(java.util.Arrays.toString(numbers));
     }
-
 }

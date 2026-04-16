@@ -17,6 +17,5 @@ public class WordCounter {
         for (Map.Entry<String, Integer> entry : wordCountMap.entrySet()) {
             System.out.println(entry.getKey() + ": " + entry.getValue() + " raz");
         }
-
     }
 }
