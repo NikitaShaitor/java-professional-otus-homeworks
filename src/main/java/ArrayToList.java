@@ -12,5 +12,6 @@ public class ArrayToList {
         fruitList.add("Pineapple");
         System.out.println(fruitList);
     }
+
 }
 
